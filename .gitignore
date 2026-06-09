@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.ocr-raw.txt
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
